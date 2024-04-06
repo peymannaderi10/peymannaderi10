@@ -2,7 +2,7 @@
 <h3 align="center">A Full-Stack Developer from Canada</h3>
 
 # 💫 About Me:
-I'm Peyman Naderi, finishing up my specialization in Computer Science and apart of the Internship Program at the University of Western Ontario. I have a passion for solving complex problems and building innovative solutions. With hands-on experience in Java, C++, JavaScript, and a suite of modern technologies like Spring Boot, Docker, and MongoDB, I thrive on creating efficient, scalable software that makes a difference.
+I'm Peyman, I am currently finishing up my specialization in Computer Science and am a part of the Internship Program at the University of Western Ontario. I have a passion for solving complex problems and building innovative solutions. With hands-on experience in Java, C++, JavaScript, and a suite of modern technologies like Spring Boot, Docker, and MongoDB, I thrive on creating efficient, scalable software that makes a difference.
 
 During my internships at Synamedia, Walletifai, and Vogro, I've contributed to full-stack projects, and performance optimization, and have been part of teams that push the boundaries of what's possible with software. I'm all about learning and leveraging new technologies to improve user experiences and backend efficiencies.
 
