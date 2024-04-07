@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peyman Naderi</h1>
-<h3 align="center">A Full-Stack Developer from Canada</h3>
+<h3 align="center">A Software Engineer from Canada</h3>
 
 # 💫 About Me:
 I'm Peyman, I am currently finishing up my specialization in Computer Science and am a part of the Internship Program at the University of Western Ontario. I have a passion for solving complex problems and building innovative solutions. With hands-on experience in Java, C++, JavaScript, and a suite of modern technologies like Spring Boot, Docker, and MongoDB, I thrive on creating efficient, scalable software that makes a difference.
