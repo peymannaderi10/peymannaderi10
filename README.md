@@ -19,7 +19,7 @@ Feel free to check out my repositories, collaborate, or get in touch!
 
 - 🔭 I’m currently working on [Readify](Readify.ca)
 
-- 👨‍💻 View my portfolio at [peymannaderi.ca](https://github.com/peymannaderi10?tab=repositories)
+- 👨‍💻 View my portfolio at [peymannaderi.ca](https://peymannaderi10.github.io/)
   
 - 📄 Checkout My [Resume](https://www.overleaf.com/read/gkbvxskrszcp#89a342)
   
