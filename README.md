@@ -21,7 +21,7 @@ Feel free to check out my repositories, collaborate, or get in touch!
 
 - 👨‍💻 View my portfolio at [peymannaderi.ca](https://peymannaderi10.github.io/)
   
-- 📄 Checkout My [Resume](https://www.overleaf.com/read/gkbvxskrszcp#89a342)
+- 📄 Checkout My [Resume](https://peymannaderi10.github.io/about)
   
 - 📫 How to reach me **peyman.n@outlook.com**
 
