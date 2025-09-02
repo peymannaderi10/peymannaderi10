@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Peyman Naderi</h1>
-<h3 align="center">A Software Engineer from Canada</h3>
 
 # 💫 About Me:
-I'm Peyman, I am currently finishing up my specialization in Computer Science and am a part of the Internship Program at the University of Western Ontario. I have a passion for solving complex problems and building innovative solutions. With hands-on experience in Java, C#, JavaScript, and a suite of modern technologies like Spring Boot, Docker, and MongoDB, I thrive on creating efficient, scalable software that makes a difference.
+I'm Peyman, a Full Stack Software Engineer based in Philadelphia who loves turning complex problems into elegant solutions. Computer Science graduate from University of Western Ontario with professional experience at Smart Communications, Synamedia (formerly Cisco), and various startups.
+Currently building enterprise applications with .NET Core, mobile experiences with Flutter, and scalable microservices. When I'm not debugging code, I'm working on side projects like GolfLabs, a fully automated golf simulator business that runs 24/7.
 
-During my internships at Synamedia, Walletifai, and Vogro, I've contributed to full-stack projects, and performance optimization, and have been part of teams that push the boundaries of what's possible with software. I'm all about learning and leveraging new technologies to improve user experiences and backend efficiencies.
-
-Feel free to check out my repositories, collaborate, or get in touch!
+Feel free to explore my repos or collaborate on something cool! ⚡
 <img align="right" alt="Coding" width="400" src ="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
